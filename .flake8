@@ -1,0 +1,14 @@
+[flake8]
+# Specify the maximum line length
+max-line-length = 88
+# Enable the E203 error code to enforce space before ':' in slice syntax
+# Enable the W503 error code to enforce line break before binary operator
+# (opposite of W504)
+select = E203, W503
+# Exclude some directories or files from linting
+exclude =
+    .git,
+    __pycache__,
+    .venv,
+    *.txt,
+    *.md
