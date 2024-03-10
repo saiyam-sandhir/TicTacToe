@@ -18,7 +18,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. You can report incidents by:
 
 - Sending a direct message (DM) to [@saiyam-sandhir](https://github.com/saiyam-sandhir) on GitHub
-- - Sending a direct message (DM) to [@arpitbaranwal](https://github.com/arpitbaranwal) on GitHub
+- Sending a direct message (DM) to [@arpitbaranwal](https://github.com/arpitbaranwal) on GitHub
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
