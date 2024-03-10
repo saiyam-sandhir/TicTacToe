@@ -56,6 +56,6 @@ By submitting a contribution to TicTacToe, you agree to license your contributio
 If you have any questions or need assistance, please don't hesitate to reach out to our projct maintainers:
 
 - [Saiyam Jain](saiyamsandhir@gmail.com)
-- Arpit Baranwal
+- [Arpit Baranwal](arpitbaranwal05@gmail.com)
 
 Thank you for contributing to TicTacToe!  
